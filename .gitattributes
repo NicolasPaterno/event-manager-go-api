@@ -1,0 +1,3 @@
+# Garantir que README e Markdown usem LF e UTF-8 no Git
+*.md text eol=lf
+README* text eol=lf
